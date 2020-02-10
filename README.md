@@ -1,3 +1,7 @@
+body {
+  background-color: coral;
+}
+
 ## Utility Based AI for FPS Enemy AI 
 
 In this project I will be creating an arfecaft using an AI technique called Utility base AI for the enemy AI in an FPS game.
