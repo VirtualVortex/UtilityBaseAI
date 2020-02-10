@@ -2,6 +2,14 @@
 
 In this project I will be creating an arfecaft using an AI technique called Utility base AI for the enemy AI in an FPS game.
 
+## UML Diagram of the Arefact
+
+## Research
+
+## Video
+
+## Development
+
 <b>6/2/20</b> - Starting Point
 <ul style="list-style-type:none;">
   <li>I began by planning out what kind of buckets would be required for the AI as well as what values the AI would monitor/used 
@@ -21,3 +29,4 @@ In this project I will be creating an arfecaft using an AI technique called Util
   </li>
 </ul>
 
+## Argument
