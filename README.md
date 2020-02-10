@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Utility Based AI for FPS Enemy AI 
 
 You can use the [editor on GitHub](https://github.com/VirtualVortex/UtilityBaseAI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
