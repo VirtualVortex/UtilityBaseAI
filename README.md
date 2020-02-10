@@ -5,7 +5,7 @@ In this project I will be using an AI technique called Utility base AI for the e
 <b>6/2/20</b> - Starting Point
 <ul style="list-style-type:none;">
   <li>I began by planning out what kind of buckets would be required for the AI as well as what values the AI would monitor/used 
-          for utility calculations. I cloned a copy of an old FPS shooter I created which the AI would use as its enviroment. After that I            started to making the base classes for both the buckets and the actions that the AI would use. These classes would have their              own names and utility so that the system can find and call the methods with ease.
+          for utility calculations. I cloned a copy of an old FPS shooter I created which the AI would use as its enviroment. After that I            started to making the prototype base classes for both the buckets and the actions that the AI would use. These classes would              have their own names and utility so that the system can find and call the methods with ease.
   </li>
 </ul>
           
@@ -16,5 +16,8 @@ In this project I will be using an AI technique called Utility base AI for the e
 </ul>
 
 <b>10/2/2020</b> - Calling action methods in bucket content child classes
-
+<ul style="list-style-type:none;">
+  <li>With most of the Bucket classes having action classes to use (via factory patterns) I began testing to see if the methods in the child action and bucket classes could be called, and work without causing errors. 
+  </li>
+</ul>
 
