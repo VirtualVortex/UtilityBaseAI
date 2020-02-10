@@ -1,37 +1,9 @@
 ## Utility Based AI for FPS Enemy AI 
 
-You can use the [editor on GitHub](https://github.com/VirtualVortex/UtilityBaseAI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this project I will be using an AI technique called Utility base AI for the enemy AI in an FPS game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VirtualVortex/UtilityBaseAI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6/2/20 - Starting Point
+          I began by planning out what kind of buckets would be required for the AI as well as what values the AI would monitor/used for             utility calculations. I cloned a copy of an old FPS shooter I created for the enviroment of the game. After that I started to             making the base classes for both the buckets and the actions that the AI would use.
+          
+7/2/20 - Begin using factory patterns
+10/2/2020 - Calling action methods in bucket content child classes
