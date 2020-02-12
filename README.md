@@ -19,7 +19,7 @@ In this project I will be creating an arfecaft using an AI technique called Util
           
 <b>7/2/20</b> - Begin using factory patterns
 <ul style="list-style-type:none;">
-  <li>Due to there being a lot of buckets and actions being created by the AI and each of them being a seprate class it would mean losts         of components would be attached to the AI's prefabs. To counteract this I used a Factory patter which is a type of programming             pattern that would create instances of the bucket and actions classes and then call said functions when need be.
+  <li>Due to there being a lot of buckets and actions being created by the AI and each of them being a seprate class it would mean losts         of components would be attached to the AI's prefabs. To counteract this I used a Factory pattern which is a type of programming             pattern that would create instances of the bucket and actions classes and then call said functions when need be.
   </li>
 </ul>
 
