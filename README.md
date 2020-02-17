@@ -1,5 +1,10 @@
 ## Utility Based AI for FPS Enemy AI 
 
+{% for page in site.pages %}
+    <a href={{ page.AboutMe.md }}>{{ page.title }}</a>
+{% endfor %}
+
+
 In this project I will be creating an arfecaft using an AI technique called Utility base AI for the enemy AI in an FPS game.
 
 ## UML Diagram of the Arefact
