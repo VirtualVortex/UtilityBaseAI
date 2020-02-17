@@ -42,4 +42,4 @@ consider alternatives
 justofy your decision based on evidence
 
 # Bibliography
-
+GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
