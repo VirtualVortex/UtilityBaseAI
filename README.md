@@ -1,8 +1,6 @@
+<a href={{ page.AboutMe.md }}>{{ page.AboutMe }}</a>
+
 ## Utility Based AI for FPS Enemy AI 
-
-
-<a href={{ page.AboutMe.md }}>{{ page.title }}</a>
-
 
 In this project I will be creating an arfecaft using an AI technique called Utility base AI for the enemy AI in an FPS game.
 
