@@ -2,11 +2,13 @@
 
 ## Utility Based AI for FPS Enemy AI 
 
-In this project I will be creating an arfecaft using an AI technique called Utility base AI for the enemy AI in an FPS game.
+In this project I will be creating an arfecaft using an AI technique called Utility Base Systems for the enemy AI in an FPS game.
 
 ## UML Diagram of the Arefact
 
 ## Research
+
+Utility Based Systems is an AI technique with relative options that it can use to solve its current problem. It makes its decisions based on utilities (scores) that are provided by possibly picking the action with the highest utility. There are different ways to calculate utility, by using functions such as Step, Linear or Sigmoid, where the utility of the actions varies on the input value. Dual Utility is where each action is stored in a hierarchy or ‘bucket’ that’s relative to the action. For example, a health bucket could contain actions such as ‘use syringe’ which has a score of 10 and ‘use Bandage’ with a score of 5. Each bucket has a weight, which are used in the AI’s decision making, the bucket with the greater weight will have higher priority over the other buckets. The weight of the buckets can be randomised, or the weight can change depending on the situation and the AI compares a random number it generates to the weights, picking the bucket with the closest one (Graham 2020). 
 
 ## Video
 
@@ -38,3 +40,6 @@ pros and cons
 experimental evidence
 consider alternatives
 justofy your decision based on evidence
+
+#Bibliography
+
