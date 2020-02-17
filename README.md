@@ -1,4 +1,4 @@
-<a href={{ page.AboutMe.md }}>{{ page.AboutMe }}</a>
+<a href="https://virtualvortex.github.io/UtilityBaseAI/AboutMe.md">AboutMe</a>
 
 ## Utility Based AI for FPS Enemy AI 
 
