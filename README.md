@@ -30,3 +30,9 @@ In this project I will be creating an arfecaft using an AI technique called Util
 </ul>
 
 ## Argument
+Present claim
+evidence to support and refute claim
+pros and cons
+experimental evidence
+consider alternatives
+justofy your decision based on evidence
