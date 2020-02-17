@@ -6,7 +6,7 @@ In this project I will be creating an arfecaft using an AI technique called Util
 
 ## UML Diagram of the Arefact
 
-<img src="/WebpageContent/PlaceholderUMLDiagram.png" alt="Italian Trulli">
+![](/WebpageContent/PlaceholderUMLDiagram.png)
 
 ## Research
 
