@@ -2,7 +2,7 @@
 
 ## Utility Based AI for FPS Enemy AI 
 
-In this project I will be creating an artefact using an AI technique called Utility Base Systems for the enemy AI in an FPS game.  
+In this project I will be creating an artefact using an AI technique called Utility Base Systems for the enemy AI in an FPS game. The AI will be able to move towards the player, try to shoot the player, Take cover, self heal, use heal stations and flank the player   
 
 ## UML Diagram of the Arefact
 
