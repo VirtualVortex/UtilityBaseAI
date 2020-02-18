@@ -1,4 +1,4 @@
-<a href="https://virtualvortex.github.io/UtilityBaseAI/README">Home</a>
+<a href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
 
 ## Development
 
