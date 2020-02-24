@@ -23,6 +23,6 @@
 
 <b>17/2/2020</b> - Calculating scores and weights and basic desicion making
 <ul style="list-style-type:none;">
-  <li>In each bucket content class I've added a calculate score function that will look at specific parts of the enviroment and calculate a number. the same has been done for the bucket classes however theur use Linear and Quadratic equations to calculate their values. These numbers are then compared to one another, the largest number is picked and the correct method is called.
+  <li>In each bucket content class I've added a calculate score function that will look at specific parts of the enviroment and calculate a number. the same has been done for the bucket classes however they use Linear and Quadratic equations to calculate their values. These numbers are then compared to one another, the largest number is picked and the correct method is called.
   </li>
 </ul>
