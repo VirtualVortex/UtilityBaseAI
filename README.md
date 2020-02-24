@@ -14,7 +14,7 @@ Utility Based Systems is an AI technique with relative options that it can use t
 
 ## Video
 
-<video src="2020-02-24 09-20-56.mp4" poster="AIScreenshot.jpg" width="320" height="200" controls preload></video>
+<video src="2020-02-24 09-20-56.mp4" poster="AIScreenshot.jpg" width="520" height="400" controls preload></video>
 
 The video is place holder
 
