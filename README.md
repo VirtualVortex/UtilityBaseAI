@@ -20,7 +20,7 @@ The video is place holder
 
 ## Argument
 
-I Decided to use Utility Based AI due to it allowing the AI to be more fluid when making decisions rather than making decisions on strictly specific changes in the environment. In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not considered.   
+I Decided to use Utility Based AI due to it allowing the AI to be more fluid when making decisions rather than making decisions on strictly specific changes in the environment like Finite State machines (FSM). In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not considered.   
 
 
 Behaviour trees or neural networks could be used as an alternative for the AI as Utility Based AI is almost a combination of both techniques. Behaviours trees consist of tasks that you can assign to run depending on the state of the enviroment. 
