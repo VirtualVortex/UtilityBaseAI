@@ -26,3 +26,9 @@
   <li>In each bucket content class I've added a calculate score function that will look at specific parts of the enviroment and calculate a number. the same has been done for the bucket classes however they use Linear and Quadratic equations to calculate their values. These numbers are then compared to one another, the largest number is picked and the correct method is called.
   </li>
 </ul>
+
+<b>21/2/2020</b> - Chaning to real time decision making
+<ul style="list-style-type:none;">
+  <li>I've changed a part of the code so that instead of it making a decision every 3 seconds it will make a decision every 0.25 seconds. This is to stop the frame rate from dropping but quick enought for the player to not notice any delays. When the AI will switch between decisions based on the smallest weight it finds in (roughlty) real time. To prevent the system from constantly jumping between actions it will add a bonus to the action's.  
+  </li>
+</ul>
