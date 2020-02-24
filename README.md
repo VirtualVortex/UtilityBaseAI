@@ -14,6 +14,8 @@ Utility Based Systems is an AI technique with relative options that it can use t
 
 ## Video
 
+<video src="2020-02-24 09-20-56.mp4" poster="AIScreenshot.jpg" width="320" height="200" controls preload></video>
+
 ## Argument
 
 I Decided to use Utility Based AI due to it allowing the AI to be more fluid when making decisions rather than making decisions on strictly specific changes in the environment. In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not considered.   
