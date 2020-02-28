@@ -27,11 +27,17 @@ Behaviour trees or neural networks could be used as an alternative for the AI as
 
 
 Present claim
+
 evidence to support and refute claim
+
 pros and cons
+
 experimental evidence
+
 consider alternatives
+
 justofy your decision based on evidence
+
 
 # Bibliography
 GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
