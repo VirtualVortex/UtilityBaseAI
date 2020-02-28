@@ -10,7 +10,7 @@ In this project I will be creating an artefact using an AI technique called Util
 
 ## Research
 
-Utility Based Systems is an AI technique with relative options that it can use to solve its current problem. It makes its decisions based on utilities (scores) that are provided by picking the action with the highest utility. There are different ways to calculate utility, by using functions such as Step, Linear or Sigmoid, where the utility of the actions varies on the input value. Dual Utility Reasoning is a technique that uses both Utility based AI techniques and combines them. Each action is stored in a hierarchy or ‘bucket’ that’s relative to the action. For example, a health bucket could contain actions such as ‘use syringe’ which has a score of 10 and ‘use Bandage’ with a score of 5, scores are also refered to as weights. Each bucket has a weight sometimes called ranks, which are used in the AI’s decision making, the bucket with the greater weight will have higher priority over the other buckets. The weight of the buckets can be randomised, or the weight can change depending on the situation and the AI compares a random number it generates to the weights, picking the bucket with the closest one (Graham 2020). 
+Utility Based AI is an AI technique with relative options that it can use to solve its current problem. It makes its decisions based on utilities (scores) that are provided by picking the action with the highest utility. There are different ways to calculate utility, by using functions such as Step, Linear or Sigmoid, where the utility of the actions varies on the input value. Dual Utility Reasoning is a technique that uses both Utility based AI techniques and combines them. Each action is stored in a hierarchy or ‘bucket’ that’s relative to the action. For example, a health bucket could contain actions such as ‘use syringe’ which has a score of 10 and ‘use Bandage’ with a score of 5, scores are also refered to as weights. Each bucket has a weight sometimes called ranks, which are used in the AI’s decision making, the bucket with the greater weight will have higher priority over the other buckets. The weight of the buckets can be randomised, or the weight can change depending on the situation and the AI compares a random number it generates to the weights, picking the bucket with the closest one (Graham 2020). 
 
 ## Video
 
@@ -22,6 +22,9 @@ The video is place holder
 
 I Decided to use Utility Based AI due to it allowing the AI to be more fluid when making decisions rather than making decisions on strictly specific changes in the environment like Finite State machines (FSM). In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
 
+The advantages of using Utility Based AI is that it can be used for complexted behaviour
+
+A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the play. This is because how the utility is calulated may need to be changed. In addition, the number that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may calculate numbers and use them to make decisions, it Machine learning. By this I mean it could work no different then FSM or behaviour trees.
 
 Behaviour trees or neural networks could be used as an alternative for the AI as Utility Based AI is almost a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the enviroment. 
 
