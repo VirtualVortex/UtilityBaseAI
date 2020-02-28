@@ -26,7 +26,7 @@ The advantages of using Utility Based AI is that it can be used for complexted b
 
 A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the play. This is because how the utility is calulated may need to be changed. In addition, the number that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may calculate numbers and use them to make decisions, it Machine learning. By this I mean it could work no different then FSM or behaviour trees.
 
-Behaviour trees or neural networks could be used as an alternative for the AI as Utility Based AI is almost a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the enviroment. 
+Behaviour trees or neural networks could be used as an alternative for the AI as Utility Based AI is almost a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the enviroment(Rasmussen 2016). 
 
 
 Present claim
@@ -44,3 +44,5 @@ justofy your decision based on evidence
 
 # Bibliography
 GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
+
+RASMUSSEN, Jakob. 27/04/16. 'Are Behavior Trees a Thing of the Past?'. Available at: https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php. [Accessed Feb 28,]. 
