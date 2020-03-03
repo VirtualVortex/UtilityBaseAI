@@ -22,7 +22,7 @@ The video is place holder
 
 I Decided to use Utility Based AI due to it allowing the AI to be more fluid when making decisions rather than making decisions on strictly specific changes in the environment like Finite State machines (FSM). In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
 
-The advantages of using Utility Based AI is that it can be used for complexted behaviour and be used an alternative to behaviour trees if the developers are unable to implement them. 
+The advantages of using Utility Based AI is that it can be used for complexted behaviour and be used an alternative to behaviour trees if the developers are unable to implement them (Kylotan 2018). 
 
 A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the play. This is because how the utility is calulated may need to be changed. In addition, the number that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may calculate numbers and use them to make decisions, it isn't Machine learning. By this I mean it could work no different then FSM or behaviour trees.
 
