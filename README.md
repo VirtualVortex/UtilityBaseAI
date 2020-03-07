@@ -50,3 +50,5 @@ RASMUSSEN, Jakob. 27/04/16. 'Are Behavior Trees a Thing of the Past?'. Available
 https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
 
 http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter03_Dual-Utility_Reasoning.pdf
+
+http://theconversation.com/beaten-by-bots-training-ai-for-first-person-shooter-games-11176
