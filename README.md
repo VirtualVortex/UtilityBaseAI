@@ -47,8 +47,8 @@ GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Gam
 
 RASMUSSEN, Jakob. 27/04/16. 'Are Behavior Trees a Thing of the Past?'. Available at: https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php. [Accessed Feb 28,]. 
 
-https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
+https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/ (AI research, AI gets boring after a while)
 
-http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter03_Dual-Utility_Reasoning.pdf
+http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter03_Dual-Utility_Reasoning.pdf (AI research)
 
-http://theconversation.com/beaten-by-bots-training-ai-for-first-person-shooter-games-11176
+http://theconversation.com/beaten-by-bots-training-ai-for-first-person-shooter-games-11176 (alternative AI, AI gets boring after a while)
