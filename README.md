@@ -24,7 +24,7 @@ I Decided to use Utility Based AI due to it allowing the enemy AI to remain ente
 
 The advantages of using Utility Based AI is that it can be used for complexted behaviour and be used an alternative to behaviour trees if the developers are unable to implement them (find evidence) (Kylotan 2018). 
 
-A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the play. This is because how the utility is calulated may need to be changed. In addition, the number that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may calculate numbers and use them to make decisions, it isn't Machine learning. By this I mean it could work no different then FSM or behaviour trees.
+A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the play. This is because how the utility is calulated may need to be changed. In addition, the numbers that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may calculate numbers and use them to make decisions, it isn't Machine learning. By this I mean it could work no differently then FSM or behaviour trees do in an enviroment.
 
 Behaviour trees or reinforcement learning could be used as an alternative for the AI as it can be argued that Utility Based AI is a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the enviroment(Rasmussen 2016). 
 
