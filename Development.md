@@ -32,3 +32,15 @@
   <li>I've changed a part of the code so that instead of it making a decision every 3 seconds it will make a decision every 0.25 seconds. This is to stop the frame rate from dropping but quick enought for the player to not notice any delays. The AI switches between decisions based on the smallest weight it finds in (roughlty) real time. To prevent the system from constantly jumping between actions it will add a bonus to the action's score.  
   </li>
 </ul>
+
+<b>12/3/2020</b> - Improving decision making
+<ul style="list-style-type:none;">
+  <li>Using System.Linq I was able to get the AI to find the smallest score/weight or the nearest score/weight to a random number it generated a lot faster then it used to. This surprisingly allowed it to occasionally pick different actions instead of it's default ones when, which occured when looking for the smallest utility. One problem that did occur however, was that when finding the nearest number to a random number, the frame rate would drop at times, possibly due to the amount of numbers being generated at a given time. 
+  </li>
+</ul>
+
+<b>23/3/2020</b> - Multiple AIs
+<ul style="list-style-type:none;">
+  <li>I have made changes to the bucket and actions classes so that multiple enemy AIs can use and thus make the game feel more like a First Person Shooter (FPS). Each AI's movement and damage dealt frequency was set to a random number at the start to allow for different behaviours. This showed promise, but the AIs would make undesired decisions at times, that didn't fit the specific changes to the enviroment. 
+  </li>
+</ul>
