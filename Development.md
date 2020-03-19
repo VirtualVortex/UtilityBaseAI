@@ -33,9 +33,11 @@
   </li>
 </ul>
 
-<b>12/3/2020</b> - Improving decision making
+<b>12/3/2020</b> - Improving decision making and Adding UI
 <ul style="list-style-type:none;">
   <li>Using System.Linq I was able to get the AI to find the smallest score/weight or the nearest score/weight to a random number it generated a lot faster then it used to. This surprisingly allowed it to occasionally pick different actions instead of it's default ones when, which occured when looking for the smallest utility. One problem that did occur however, was that when finding the nearest number to a random number, the frame rate would drop at times, possibly due to the amount of numbers being generated at a given time. In addition, when it decides to use  health station it does have to wait for it to say that it has completed the task. This is to prevent it from calling the action multiple times and thus prevent it from actually reaching the health station.
+    
+I also added UI to show the scores or every bucket and actions as well that bucket and action it picks when making a decision. This was so that I could anticipate what was going to happen.
   </li>
 </ul>
 
