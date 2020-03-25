@@ -46,3 +46,9 @@ I also added UI to show the scores or every bucket and actions as well that buck
   <li>I have made changes to the bucket and actions classes so that multiple enemy AIs can use and thus make the game feel more like a First Person Shooter (FPS). Each AI's movement and damage dealt frequency was set to a random number at the start to allow for different behaviours. This showed promise, but the AIs would make undesired decisions at times, that didn't fit the specific changes to the enviroment. 
   </li>
 </ul>
+
+<b>25/3/2020</b> - Grenade Throwing and changes to move to player action
+<ul style="list-style-type:none;">
+  <li>I added in another action that allows enemy to throw two grenades when at a specific distance. This is intended to make the player move more often around the level. At the moment, the action is picked more frequenctly when the actions are picked randomly compared to when it pickes the actions with the smallest score. The AI's Move to player action was changed by removing the AI's health from the equation that calculate the scores. This resulted in an increase of it moving to the player, but would still pick other actions in the movement bucket from time to time.
+  </li>
+</ul>
