@@ -6,7 +6,7 @@ In this project I will be creating an artefact using an AI technique called Util
 
 ## Poster
 
-You can get a copy of my poster about the artefact here: <a href="https://virtualvortex.github.io/UtilityBaseAI/AboutMe" Download >AboutMe</a>
+You can get a copy of my poster about the artefact here: <a href="COMP250 Poster (1).pdf" Download >AboutMe</a>
 
 ## UML Diagram of the Arefact
 
