@@ -36,21 +36,14 @@ Behaviour trees or reinforcement learning could be used as an alternative for th
 Reinforcement learning allows designers to create enemy AI with different characteristics, this is done by training the AI in real time by either changing the enviroment or values in the AI. This type of AI technique makes testing and altering the AI faster and more accessible compared to Utility Based AI. That being said the AI will not change in the game itself, only during the development of the game (McPartland 2013). 
 
 
-Present claim
-
-evidence to support and refute claim
-
-pros and cons
-
-experimental evidence
-
-consider alternatives
-
-justofy your decision based on evidence
-
 # Conclusion
 
-Looking back at 
+Looking at how the AI functions in the level I would make the levels were smaller but not compact as they appear to work better closer rather than further away from the player but are still challenging either way.  In addition, the AIs do show promise due to their ability to make decisions and perform actions. I feel like it was able to solve the problem but not as well as expected due to it still feeling robotic at time. However, this may be due to the limitations of Utility Based AI. A picture of the game is shown in figure 4.
+
+If I were to improve, I would use Dictionaries instead of factory patterns to permanently store buckets and actions when organizing them, as I believe it would make accessing the information easier, then using factory patterns and an FSM-like structure, when calling actions and buckets.  
+
+I would also spend more time experimenting with different ways it makes decisions. When using Utility Based AI I would use one of the standard techniques instead of Dual Utility Reasoning, mainly because trying to get everything set up and working was more problematic, then it seemed. I would also do this to see if the AI would preform better.
+
 
 # Bibliography
 GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
