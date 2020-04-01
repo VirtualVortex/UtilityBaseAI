@@ -4,6 +4,10 @@
 
 In this project I will be creating an artefact using an AI technique called Utility Base Systems for the enemy AI in an FPS game. The AI will be able to move towards the player, try to shoot the player, Take cover, self heal, use heal stations and flank the player   
 
+## Poster
+
+You can get a copy of my poster about the artefact here: <a href="/path/to/image" download="myimage"><img src="/path/to/image" /></a>
+
 ## UML Diagram of the Arefact
 
 ![UML Diagram](PlaceholderUMLDiagram.JPG)
