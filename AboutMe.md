@@ -1,13 +1,13 @@
-.fit {
-  max-width: 100%;
-  max-height: 100%;
+img.one {
+  height: auto;
+  width: auto;
 }
 
-<a class="fit" href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
+<a href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
 
 ## About Me
 
-<img src="PictureOfMe.jpg" width="75" height="100" />
+<img class = "one" src="PictureOfMe.jpg" width="75" height="100" />
 
 My name is Max and I'm a Second year student at Falmouth University currenlty studying Game Development: Programming. Currently using Unity and C# to make games but trying to learn Unreal Engine 4 and C++/Blueprints. 
 
