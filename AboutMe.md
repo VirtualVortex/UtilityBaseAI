@@ -1,7 +1,11 @@
+<style>
+  
 img.one {
   height: auto;
   width: auto;
 }
+
+</style>
 
 <a href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
 
