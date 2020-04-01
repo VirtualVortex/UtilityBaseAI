@@ -1,4 +1,9 @@
-<a href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
+.fit {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+<a class="fit" href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
 
 ## About Me
 
