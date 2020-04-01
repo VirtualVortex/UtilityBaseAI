@@ -17,9 +17,9 @@ Both of these projects have helped me improve as both a programmer and a team me
 you can contact me via:
 <ul style="list-style-type:disc;">
   <li>
-    Twitter - @
+    Twitter - @MaxOates1
   </li>
   <li>
-    Linkedin - linkedin.com/in/max-oates-8747a419a
+    Linkedin - <a href="https://www.linkedin.com/in/max-oates-8747a419a/">Linkedin Account</a>
   </li>
 </ul>
