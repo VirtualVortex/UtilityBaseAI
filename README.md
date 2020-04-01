@@ -2,11 +2,11 @@
 
 ## Utility Based AI for FPS Enemy AI 
 
-In this project I will be creating an artefact using an AI technique called Utility Base Systems for the enemy AI in an FPS game. The AI will be able to move towards the player, try to shoot the player, throw grenades,Take cover, self heal, use heal stations and flank the player   
+In this project I will be creating an artefact using an AI technique called Utility Based AI for the enemy in an First Person Shooter (FPS) game. The AI will be able to move towards the player, try to shoot the player, throw grenades,Take cover, self heal, use heal stations and flank the player.   
 
 ## Poster
 
-You can download my poster about the artefact here: <a href="COMP250 Poster (1).pdf" Download >Poster</a>
+my poster about the artefact can be downloaded here: <a href="COMP250 Poster (1).pdf" Download >Poster</a>
 
 ## UML Diagram of the Arefact
 
@@ -14,7 +14,7 @@ You can download my poster about the artefact here: <a href="COMP250 Poster (1).
 
 ## Research
 
-Utility Based AI is an AI technique with relative options that it can use to solve its current problem. It makes its decisions based on utilities (scores) that are provided by picking the action with the highest utility. There are different ways to calculate utility, by using functions such as Step, Linear or Sigmoid, where the utility of the actions varies on the input value. Dual Utility Reasoning is a technique that uses both Utility based AI techniques and combines them. Each action is stored in a hierarchy or ‘bucket’ that’s relative to the action. For example, a health bucket could contain actions such as ‘use syringe’ which has a score of 10 and ‘use Bandage’ with a score of 5, scores are also refered to as weights. Each bucket has a weight sometimes called ranks, which are used in the AI’s decision making, the bucket with the greater weight will have higher priority over the other buckets. The weight of the buckets can be randomised, or the weight can change depending on the situation and the AI compares a random number it generates to the weights, picking the bucket with the closest one (Graham 2020). Instead of picking the hightest utility it will pick the lowest utility due to how it calculate the score and weights.  
+Utility Based AI is a technique with relative options that it can use to solve its current problem. It makes its decisions based on utilities (scores) that are provided by picking the action with the highest utility. There are different ways to calculate utility, by using functions such as Step, Linear or Sigmoid, where the utility of the actions varies on the input value. Dual Utility Reasoning is a technique that uses both Utility based AI techniques and combines them. Each action is stored in a hierarchy or ‘bucket’ that’s relative to the action. For example, a health bucket could contain actions such as ‘use syringe’ which has a score of 10 and ‘use Bandage’ with a score of 5, scores are also refered to as weights. Each bucket has a weight sometimes called ranks, which are used in the AI’s decision making, the bucket with the greater weight will have higher priority over the other buckets. The weight of the buckets can be randomised, or the weight can change depending on the situation and the AI compares a random number it generates to the weights, picking the bucket with the closest one (Graham 2020). Instead of picking the hightest utility it will pick the lowest utility due to how it calculate the score and weights.  
 
 ## Video
 
@@ -24,16 +24,16 @@ The video is place holder
 
 ## Argument
 
-I Decided to use Utility Based AI due to it allowing the enemy AI to remain entertaining and less predictable when re-playing the game, which is phenomenon that occurs on most games. Michelle, who also aimed to take care of the same problem by researching a different AI techniqe, used examples such as the Big Daddys from Bioshock and the Striders from Half Life, stating that "come the end of the game and you’re often ploughing through computerised enemies with ease – the bots are no longer the insurmountable challenge they were when you first saw them." (McPartland 2013). In addition, it has been stated that Utility Based Systems if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
+I Decided to use Utility Based AI due to it allowing the enemy AI to remain entertaining and less predictable when re-playing the game, which is a phenomenon that occurs on most games. Michelle, who also aimed to take care of the same problem by researching a different AI techniqe, used examples such as the 'Big Daddys' from Bioshock and the Striders from Half Life, stating that "come the end of the game and you’re often ploughing through computerised enemies with ease – the bots are no longer the insurmountable challenge they were when you first saw them" (McPartland 2013). In addition, it has been stated that Utility Based AI if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
 
-The advantages of using Utility Based AI is that it can be used for complexted behaviour and be used as an alternative to behaviour trees if the developers are unable to implement them(Kylotan 2018). 
+The advantages of using Utility Based AI is that it can be used for complex behaviour and as an alternative to behaviour trees if the developers are unable to implement them(Kylotan 2018). 
 
-A disadvantage using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the player. This is because how the utility is calulated may need to be changed. In addition, the numbers that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may make calculations and use them to make decisions, it isn't Machine learning. By this I mean it could work no differently then FSM or behaviour trees do in an enviroment, which had occasionally been the case when working with the AI (Rasmussen 2016).
+A disadvantage of using Utility Based AI is that a lot of time and testing is required to make the AI entertaining for the player. This is because of how the utility is calulated and may need to be changed. In addition, the numbers that the AI uses to calculate the utilities may need to be changed as well. The other disadvantage with Utility Based AI is that though the AI may make calculations and use them to make decisions, it isn't Machine learning. By this I mean it could work the same as a Finite State Machines (FSM) or behaviour trees do in an environment, which had occasionally been the case when working with the AI (Rasmussen 2016).
 
-Behaviour trees or reinforcement learning could be used as an alternative for the AI as it can be argued that Utility Based AI is a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the enviroment(Rasmussen 2016). 
+Behaviour trees or reinforcement learning could be used as an alternative for the AI as it can be argued that Utility Based AI is a combination of both techniques. Behaviour trees consist of tasks that you can assign to run depending on the state of the environment(Rasmussen 2016). 
 
 
-Reinforcement learning allows designers to create enemy AI with different characteristics, this is done by training the AI with in real time by either changing the enviroment or values in the AI. This type of AI technique makes testing and altering the AI faster and more accessible compared to Utility Based AI. That being said the AI will not change in the game itself, only during the development of the game (McPartland 2013). 
+Reinforcement learning allows designers to create enemy AI with different characteristics, this is done by training the AI in real time by either changing the enviroment or values in the AI. This type of AI technique makes testing and altering the AI faster and more accessible compared to Utility Based AI. That being said the AI will not change in the game itself, only during the development of the game (McPartland 2013). 
 
 
 Present claim
