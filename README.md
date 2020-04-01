@@ -6,7 +6,9 @@ In this project I will be creating an artefact using an AI technique called Util
 
 ## Poster
 
-You can get a copy of my poster about the artefact here: <a href="COMP250 Poster (1).pdf" download="myimage"><img src="COMP250 Poster (1).pdf" /></a>
+You can get a copy of my poster about the artefact here: <a href="/images/myw3schoolsimage.jpg" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+</a>
 
 ## UML Diagram of the Arefact
 
