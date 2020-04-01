@@ -14,7 +14,7 @@ Both of these projects have helped me improve as both a programmer and a team me
 ## Contacts
 
 
-you can contact me via:
+you can contact me at:
 <ul style="list-style-type:disc;">
   <li>
     Twitter - @MaxOates1
