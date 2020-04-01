@@ -1,8 +1,7 @@
 <a href="https://virtualvortex.github.io/UtilityBaseAI/">Home</a>
 
-## About Me <img class = "one" src="PictureOfMe.jpg" width="10%" height="10%" />
-
-
+<img class = "one" src="PictureOfMe.jpg" width="10%" height="10%" />
+## About Me 
 
 My name is Max and I'm a Second year student at Falmouth University currenlty studying Game Development: Programming. Currently using Unity and C# to make games but trying to learn Unreal Engine 4 and C++/Blueprints. 
 
