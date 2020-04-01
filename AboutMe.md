@@ -12,4 +12,14 @@ I worked on a game last year called 'Lost Kingdom of Turia' which was a 2D plafo
 Both of these projects have helped me improve as both a programmer and a team member. In addition, I have been learning and improving on how to work in an agile envrioment for the past 2 years.
 
 ## Contacts
-you can contact me via 
+
+
+you can contact me via:
+<ul style="list-style-type:disc;">
+  <li>
+    Twitter - @
+  </li>
+  <li>
+    Linkedin - linkedin.com/in/max-oates-8747a419a
+  </li>
+</ul>
