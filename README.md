@@ -48,6 +48,9 @@ consider alternatives
 
 justofy your decision based on evidence
 
+# Conclusion
+
+Looking back at 
 
 # Bibliography
 GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
