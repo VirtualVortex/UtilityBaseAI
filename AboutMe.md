@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img class = "one" src="PictureOfMe.jpg" width="20%" height="20%" />
+<img class = "one" src="PictureOfMe.jpg" width="10%" height="10%" />
 
 My name is Max and I'm a Second year student at Falmouth University currenlty studying Game Development: Programming. Currently using Unity and C# to make games but trying to learn Unreal Engine 4 and C++/Blueprints. 
 
