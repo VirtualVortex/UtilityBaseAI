@@ -10,7 +10,7 @@ You can download my poster about the artefact here: <a href="COMP250 Poster (1).
 
 ## UML Diagram of the Arefact
 
-![UML Diagram](PlaceholderUMLDiagram.JPG)
+![UML Diagram](COMP250 UML diagram.PNG)
 
 ## Research
 
