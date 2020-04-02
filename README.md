@@ -2,7 +2,7 @@
 
 ## Utility Based AI for FPS Enemy AI 
 
-In this project I will be creating an artefact using an AI technique called Utility Based AI for the enemy in an First Person Shooter (FPS) game. The AI will be able to move towards the player, try to shoot the player, throw grenades,Take cover, self heal, use heal stations and flank the player.   
+In this project I will be creating an artefact using an AI technique called Utility Based AI for the enemy in an First Person Shooter (FPS) game. The AI will be able to move towards the player, try to shoot the player, throw grenades,Take cover, self heal, use heal stations and flank the player. All of this is created in Unity and programmed with C#
 
 ## Poster
 
