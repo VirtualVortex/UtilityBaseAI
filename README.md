@@ -38,7 +38,7 @@ Reinforcement learning allows designers to create enemy AI with different charac
 
 # Conclusion
 
-Looking at how the AI functions in the level I would make the levels were smaller but not compact as they appear to work better closer rather than further away from the player but are still challenging either way.  In addition, the AIs do show promise due to their ability to make decisions and perform actions. I feel like it was able to solve the problem but not as well as expected due to it still feeling robotic at time. However, this may be due to the limitations of Utility Based AI. A picture of the game is shown in figure 4.
+Looking at how the AI functions in the level I would make the levels smaller but not compact as they appear to work better closer rather than further away from the player but are still challenging either way.  In addition, the AIs do show promise due to their ability to make decisions and perform different actions. I feel like it was able to solve the problem but not as well as expected due to it still feeling robotic at time. However, this may be due to the limitations of Utility Based AI.
 
 If I were to improve, I would use Dictionaries instead of factory patterns to permanently store buckets and actions when organizing them, as I believe it would make accessing the information easier, then using factory patterns and an FSM-like structure, when calling actions and buckets.  
 
