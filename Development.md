@@ -49,6 +49,12 @@ I also added UI to show the scores or every bucket and actions as well that buck
 
 <b>25/3/2020</b> - Grenade Throwing and changes to move to player action
 <ul style="list-style-type:none;">
-  <li>I added in another action that allows enemy to throw two grenades when at a specific distance. This is intended to make the player move more often around the level. At the moment, the action is picked more frequenctly when the actions are picked randomly compared to when it pickes the actions with the smallest score. The AI's Move to player action was changed by removing the AI's health from the equation that calculate the scores. This resulted in an increase of it moving to the player, but would still pick other actions in the movement bucket from time to time.
+  <li>I added in another action that allows enemy to throw two grenades when at a specific distance. This is intended to make the player move more often around the level. At the moment, the action is picked more frequenctly when the actions are picked randomly compared to when it pickes the actions with the smallest score. The AI's 'Move to player, action was changed by removing the AI's health from the equation that calculate the scores. This resulted in an increase of it moving to the player, but would still pick other actions in the movement bucket from time to time.
+  </li>
+</ul>
+
+<b>29/3/2020</b> - AI movement and thowing grenades
+<ul style="list-style-type:none;">
+  <li>The AI's throw grenade action has been changed to only throw onw greande at a time in order to prevent killing the player too easily. In addition, the Ai's movement frequency will decrease over time now instead of just when they're standing still, this is to ensure that they move more often when their actions are being picked randomly and so that the player can't kill them too quickly. 
   </li>
 </ul>
