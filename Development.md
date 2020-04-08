@@ -53,7 +53,7 @@ I also added UI to show the scores or every bucket and actions as well that buck
   </li>
 </ul>
 
-<b>29/3/2020</b> - AI movement and thowing grenades
+<b>29/3/2020</b> - AI movement and throwing grenades
 <ul style="list-style-type:none;">
   <li>The AI's throw grenade action has been changed to only throw onw greande at a time in order to prevent killing the player too easily. In addition, the Ai's movement frequency will decrease over time now instead of just when they're standing still, this is to ensure that they move more often when their actions are being picked randomly and so that the player can't kill them too quickly. 
   </li>
