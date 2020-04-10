@@ -11,6 +11,7 @@ my poster about the artefact can be downloaded here: <a href="COMP250 Poster (1)
 ## UML Diagram of the Arefact
 
 ![UML Diagram](COMP250UMLdiagram.jpg)
+Fig1: Oates, Max. 2020. UML Diagram of bucket and action classes
 
 ## Research
 
