@@ -60,3 +60,7 @@ Kylotan. 2018. 'The Total Beginner's Guide to Game AI'. Available at: https://ga
 DILL, Kevin. 2015. Game AI Pro 2: Collected Wisdom of Game AI Professionals. CRC Press.
 
 MCPARTLAND, Michelle. 2013. 'Beaten by Bots – Training AI for First-Person Shooter Games'. Available at: http://theconversation.com/beaten-by-bots-training-ai-for-first-person-shooter-games-11176. [Accessed Mar 7,].
+
+Fig. 1: Oates 2020. UML Diagram of bucket and action classes [UML Diagram]​
+
+Fig. 2: Oates 2020. Example of gameplay [Video]​
