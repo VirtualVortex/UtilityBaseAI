@@ -58,3 +58,9 @@ I also added UI to show the scores or every bucket and actions as well that buck
   <li>The AI's throw grenade action has been changed to only throw onw greande at a time in order to prevent killing the player too easily. In addition, the Ai's movement frequency will decrease over time now instead of just when they're standing still, this is to ensure that they move more often when their actions are being picked randomly and so that the player can't kill them too quickly. 
   </li>
 </ul>
+
+<b>14/4/2020</b> - Optimisation
+<ul style="list-style-type:none;">
+  <li>I've made some changes to AI so that they can still aim at the player while trying to hide or heal and I've made small changes to the code so that the likelyhood of the frame dropping is reduced.
+  </li>
+</ul>
