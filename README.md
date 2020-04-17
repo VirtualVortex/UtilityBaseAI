@@ -47,7 +47,7 @@ Looking at how the AI functions in the level I would make the levels smaller but
 
 If I were to improve, I would use Dictionaries instead of factory patterns to permanently store buckets and actions when organizing them, as I believe it would make accessing the information easier, then using factory patterns and an FSM-like structure, when calling actions and buckets. In addition, I belive it would make the AI more accessible to designers and make testing faster.
 
-I would also spend more time experimenting with different ways it makes decisions. When using Utility Based AI I would use one of the standard techniques instead of Dual Utility Reasoning, mainly because trying to get everything set up and working was more problematic, then it seemed. I would also do this to see if the AI would preform better.
+I would also spend more time experimenting with different ways it makes decisions. When using Utility Based AI I would use one of the standard techniques instead of Dual Utility Reasoning, mainly because trying to get everything set up and working, was more problematic then it seemed. I would also do this to see if the AI would preform better.
 
 
 # Bibliography
