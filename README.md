@@ -30,7 +30,7 @@ Fig2: Oates, Max. 2020. Example of gameplay
 
 ## Argument
 
-I Decided to use Utility Based AI due to it allowing the enemy AI to remain entertaining and less predictable when re-playing the game, which is a phenomenon that occurs on most games. Michelle McPartland, a student researching different AI techniques for her PhD, also aimed to take care of the same problem. She used examples such as the 'Big Daddys' from <i>Bioshock</i> and the 'Striders' from <i>Half Life</i>, "come the end of the game and you’re often ploughing through computerised enemies with ease – the bots are no longer the insurmountable challenge they were when you first saw them" (McPartland 2013). In addition, it has been stated that Utility Based AI if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
+I Decided to use Utility Based AI due to it allowing the enemy AI to remain entertaining and less predictable when re-playing the game, which is a phenomenon that occurs on most games. Michelle McPartland, a student researching different AI techniques for her PhD, also aimed to take care of the same problem. She used examples such as the 'Big Daddys' from <i>Bioshock</i> (2007) and the 'Striders' from <i>Half Life 2</i> (2004), "come the end of the game and you’re often ploughing through computerised enemies with ease – the bots are no longer the insurmountable challenge they were when you first saw them" (McPartland 2013). In addition, it has been stated that Utility Based AI if done right could potentially make decisions for parts of the game that the AI designer may not have considered.   
 
 The advantages of using Utility Based AI is that it can be used for complex behaviour and as an alternative to behaviour trees if the developers are unable to implement them(Kylotan 2018). 
 
@@ -54,7 +54,12 @@ I would also spend more time experimenting with different ways it makes decision
 
 
 # Bibliography
+
+<i>BioShock</i>. 2007. Irrational Games, 2K Games.
+
 GRAHAM, David “. 2020. 'An Introduction to Utility Theory'. In Anonymous Game AI Pro 360. (1st edn). CRC Press, 67-80. 
+
+<i>Half Life 2</i>. 2004.  Valve Corporation,  Valve Corporation.
 
 RASMUSSEN, Jakob. 27/04/16. 'Are Behavior Trees a Thing of the Past?'. Available at: https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php. [Accessed Feb 28,]. 
 
