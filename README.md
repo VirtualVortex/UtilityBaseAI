@@ -27,6 +27,8 @@ Each action is stored in a hierarchy or ‘bucket’ that’s relative to the ac
 <video src="2020-02-24 09-20-56.mp4" poster="AIScreenshot.jpg" width="520" height="400" controls preload></video>
 Fig2: Oates, Max. 2020. Example of gameplay
 
+The video above shows an early version of my project
+
 
 ## Argument
 
