@@ -1,4 +1,4 @@
-<a href="https://virtualvortex.github.io/MaxMakesGame/AboutMe">AboutMe</a> <a href="https://virtualvortex.github.io/MaxMakesGame/Development">Development</a>
+<a href="https://virtualvortex.github.io/MaxMakesGame/AboutMe.md">AboutMe</a> <a href="https://virtualvortex.github.io/MaxMakesGame/Development.md">Development</a>
 
 ## Utility Based AI for FPS Enemy AI 
 
